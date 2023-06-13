@@ -2,6 +2,8 @@
 
 *TheBigMac PS4 Fake Package Builder. Building Base Game, Updates, DLC, and DLC Unlockers.*
 
+*Just Launch **_TheBigMac.exe** and you are good to go!*
+
 
 _____________________________________________________________________________________________
 
